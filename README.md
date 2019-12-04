@@ -1,6 +1,6 @@
 # flutter_basic_web
 
-A new Flutter project.
+Flutter Web example fully responsive.
 
 ## Getting Started
 
