@@ -2,6 +2,14 @@
 
 Flutter Web example fully responsive.
 
+Requires: flutter channel master then enable web (flutter config --enable-web)
+
+    Reference: https://flutter.dev/docs/get-started/web
+
+# Demo
+
+http://robust-division.surge.sh/#/
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
