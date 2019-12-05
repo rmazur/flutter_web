@@ -4,7 +4,7 @@ Flutter Web example fully responsive.
 
 Requires: flutter channel master then enable web (flutter config --enable-web)
 
-    Reference: https://flutter.dev/docs/get-started/web
+Reference: https://flutter.dev/docs/get-started/web
 
 # Demo
 
