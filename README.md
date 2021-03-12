@@ -28,11 +28,17 @@ flutter devices
 Then you're ready to run the app:
 
 flutter run -d windows
+
 flutter run -d macos
+
 flutter run -d linux
+
 flutter run -d android
+
 flutter run -d ios
+
 flutter run -d web
+
 
 
 ## Getting Started
