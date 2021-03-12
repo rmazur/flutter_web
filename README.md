@@ -12,6 +12,29 @@ Reference: https://flutter.dev/docs/get-started/web
 
 http://robust-division.surge.sh/#/
 
+**Also works well on Android, iOS, Windows, Linux and MacOS**
+
+If you've never run a desktop build before, you will need to enable it with a one-time command for your current platform:
+
+flutter config --enable-macos-desktop
+flutter config --enable-windows-desktop
+flutter config --enable-linux-desktop
+
+Check you're existing devices with:
+
+flutter devices
+
+
+Then you're ready to run the app:
+
+flutter run -d windows
+flutter run -d macos
+flutter run -d linux
+flutter run -d android
+flutter run -d ios
+flutter run -d web
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
