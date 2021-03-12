@@ -3,7 +3,7 @@ import 'package:flutter_basic_web/widgets/navigation_bar/navbar_item.dart';
 import 'package:flutter_basic_web/widgets/navigation_bar/navbar_logo.dart';
 
 class NavigationBarTabletDesktop extends StatelessWidget {
-  const NavigationBarTabletDesktop({Key key}) : super(key: key);
+  //const NavigationBarTabletDesktop({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

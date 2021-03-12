@@ -6,6 +6,8 @@ Requires: flutter channel master then enable web (flutter config --enable-web)
 
 Reference: https://flutter.dev/docs/get-started/web
 
+<ins>Note</ins>: Upgraded to Flutter 2.0 + Null Safety added
+
 # Demo
 
 http://robust-division.surge.sh/#/

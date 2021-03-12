@@ -3,7 +3,7 @@ import 'package:flutter_basic_web/widgets/navigation_drawer/drawer_item.dart';
 import 'package:flutter_basic_web/widgets/navigation_drawer/navigation_drawer_header.dart';
 
 class NavigationDrawer extends StatelessWidget {
-  const NavigationDrawer({Key key}) : super(key: key);
+  //const NavigationDrawer({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

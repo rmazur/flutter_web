@@ -6,14 +6,14 @@ import 'package:flutter_basic_web/widgets/centered_view/centered_view.dart';
 //import 'package:flutter_basic_web/widgets/course_details/course_details.dart';
 import "package:flutter_basic_web/widgets/navigation_bar/navigation_bar.dart";
 import 'package:flutter_basic_web/widgets/navigation_drawer/navigation_drawer.dart';
-import 'package:responsive_builder/responsive_builder.dart';
+import "package:responsive_builder/responsive_builder.dart";
 
 class HomeView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ResponsiveBuilder(
       builder: (context, sizingInformation) => Scaffold(
-        drawer: sizingInformation.deviceScreenType == DeviceScreenType.Mobile
+        drawer: sizingInformation.deviceScreenType == DeviceScreenType.mobile
             ? NavigationDrawer()
             : null,
         backgroundColor: Colors.white,
